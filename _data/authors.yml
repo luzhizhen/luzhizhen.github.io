@@ -30,9 +30,9 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <LZZpoli_sci>
+    twitter:         LZZpoli_sci
     # github:          <username>
-    email:           <zhizhen_lu@utexas.edu>
+    email:           zhizhen_lu@utexas.edu
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -61,7 +61,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    linkedin:        <www.linkedin.com/in/zhizhenlu> #firstname-lastname-string 
+    linkedin:         zhizhenlu
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
