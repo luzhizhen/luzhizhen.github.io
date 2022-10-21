@@ -2,17 +2,21 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              <Zhizhen> <Lu>
+  email:             <zhizhen_lu@utexas.edu>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        I am a doctoral student at the Department of Government of the University of Texas at Austin. | 
+        My research is motivated motivated by the following questions: How do states exercise power beyond |
+        their national borders in the era of globalization? How do business decisions of multinational |
+        corporations facilitate/constrain states' foreign economic policies? I seek to answer these questions |
+        in the context of economic sanctions, investigating multinational corporations' design and implement |
+        sanction compliance programs and their implications for the sanction regulatory regimes.
+
     
-    Open `_data/authors.yml` to edit this text.
+ #   Open `_data/authors.yml` to edit this text.
 
   # This photo will be used in the about section
   picture:
