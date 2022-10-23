@@ -1,6 +1,6 @@
 # Research
 
-## Working Paper
+## Working Projects
 _Signalling Legitimacy: Strategic Decoupling of Sanction Compliance Programs in Global Firms_
 Abstract: While the compliance of multinational corporations (MNCs) is critical for effective economic sanctions, the economic coercion scholarship falls short in explicating a solid firm-level theory for sanction compliance. Existing studies suggest that MNCs relocate production to third-party states to offset negative impacts of sanction compliance. In this paper, I focus on how businesses leverage managerial strategies to buffer against sanction restrictions. 
 
@@ -10,4 +10,5 @@ I build a formal theory of costly signaling where firms use SCPs as a credible s
 
 ## Work in Progress
 _Guilty by Association? An Experimental Test of MVTS Compliance with International Law_ (With Nathan Jensen and Daniel Nielson)
+
 _Sweetheart Tax Deal: An Audit Experiment on Tax Transparency Initiatives_ (With Daniel Nielson and Eoin Power)
