@@ -9,4 +9,4 @@ in the context of economic sanctions, investigating multinational corporations' 
 sanction compliance programs and their implications for the sanction regulatory regimes.
 
 
-![Screenshot](assets/img/compliance-caricature.png){:.lead width="1920" height="1080" loading="lazy"}
+#![Screenshot](assets/img/compliance-caricature.png){:.lead width="1920" height="1080" loading="lazy"}
