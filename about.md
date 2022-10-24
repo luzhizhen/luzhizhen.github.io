@@ -8,5 +8,5 @@ corporations facilitate/constrain states' foreign economic policies? I seek to a
 in the context of economic sanctions, investigating multinational corporations' design and implement 
 sanction compliance programs and their implications for the sanction regulatory regimes.
 
-
+![Compliance Office](assets/img/compliance-caricature.png){:.lead width="1920" height="1080" loading="lazy"}
 
