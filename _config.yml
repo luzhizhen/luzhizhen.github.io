@@ -420,4 +420,4 @@ jekyll_compose:
         path: /assets/img/sidebar.png
       links:
         - title: Project Link
-          url: https://example.com
+          url: https://about.com
