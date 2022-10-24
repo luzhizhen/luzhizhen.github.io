@@ -6,5 +6,7 @@ hide_image: false
 cover: true
 ---
 
-# Welcome to my site!
-![Welcome Page](../assets/img/welcome.jpeg){:.lead width="960" height="540" loading="lazy"}
+# Welcome!
+
+
+#![Welcome Page](../assets/img/welcome.jpeg){:.lead width="960" height="540" loading="lazy"}
