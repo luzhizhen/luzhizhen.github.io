@@ -10,6 +10,6 @@ Sanction regulators increasingly rely on firms’ self-regulation to monitor and
 I build a formal theory of costly signaling where firms use SCPs as a credible signal to regulators. Constrained by enforcement resources and imperfect information about firms’ on-the-ground business operations, regulators take this costly signal in the choice of enforcement levels, which only detect non-compliance probabilistically. Game-theoretic analysis confirms my hypothesized mechanisms. A separating equilibrium, where the firm can signal their types through SCPs, exists only when regulators face a budget constraint. When regulators don’t have information on firms’ actual compliance, firms cannot use SCPs as a credible signal. My theory contributes to the economic sanction literature by offering a firm-level explanation for MNCs’ ceremonial compliance and voluntary disclosure.
 
 ## Work in Progress
-_Guilty by Association? An Experimental Test of MVTS Compliance with International Law_ (With Nathan Jensen and Daniel Nielson)
+_Sweetheart Tax Deal: An Audit Experiment on Tax Transparency Initiatives_ (With Nathan Jensen and Daniel Nielson)
 
-_Sweetheart Tax Deal: An Audit Experiment on Tax Transparency Initiatives_ (With Daniel Nielson and Eoin Power)
+_Guilty by Association? An Experimental Test of MVTS Compliance with International Law_ (With Daniel Nielson and Eoin Power)
