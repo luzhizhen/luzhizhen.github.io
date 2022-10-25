@@ -8,3 +8,5 @@ cover: true
 
 # Welcome!
 
+
+![Welcome Page](../assets/img/welcome.jpeg){:.lead width="960" height="540" loading="lazy"}
